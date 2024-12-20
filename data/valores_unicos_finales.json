@@ -1,0 +1,16 @@
+{
+    "Gender": [
+        "female",
+        "male"
+    ],
+    "Subscription_Type": [
+        "standard",
+        "basic",
+        "premium"
+    ],
+    "Contract_Length": [
+        "annual",
+        "monthly",
+        "quarterly"
+    ]
+}
